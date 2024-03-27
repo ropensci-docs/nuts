@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e50280efc18410b582e9eb9478af52e1f9e9106c",
+    "author": "AAoritz <moritz.hennnicke@posteo.de>",
+    "time": "2024-03-27 16:40:27",
+    "files": 7,
+    "merge": false,
+    "message": "updating doi in citation\n"
+  },
+  "repo": "https://github.com/ropensci/nuts",
+  "pkg": "nuts"
+}
